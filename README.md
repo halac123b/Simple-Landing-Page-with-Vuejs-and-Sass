@@ -1,1 +1,2 @@
-# Simple-Landing-Page-with-Vuejs-and-Sass
+# Simple Landing Page with Vuejs and Sass
+![Landing Page]()
